@@ -65,32 +65,35 @@ Die Schriftarten sind in der App enthalten. Beim Start der App werden keine Date
 ## 8. Kamera und Fotos
 Wenn du ein Profilbild fotografierst oder auswählst, greift DayGate nach deiner Erlaubnis auf Kamera oder Fotomediathek zu. Das Bild wird nur auf deinem Gerät gespeichert. Funktionen, die Fotos an eine KI schicken, sind in dieser Version ausgeschaltet.
 
-## 9. Teilen, Kalender-Datei, Links
+## 9. Apple Health
+Auf dem iPhone kannst du DayGate mit Apple Health verbinden. Wenn du „Mit Health verbinden“ wählst und es erlaubst, liest DayGate Schritte, Gewicht und Körperfett aus Apple Health und trägt sie in deine Körperdaten ein. DayGate schreibt nie etwas in Health. Die Werte bleiben auf deinem Gerät und werden nie für Werbung genutzt. Rechtsgrundlage: Art. 9 Abs. 2 lit. a in Verbindung mit Art. 6 Abs. 1 lit. a DSGVO (ausdrückliche Einwilligung). Widerruf jederzeit in der Health-App unter Datenschutz.
+
+## 10. Teilen, Kalender-Datei, Links
 - **Teilen:** Wenn du dein Profil oder ein Tor-Bild teilst, erzeugt DayGate ein Bild und öffnet das Teilen-Menü deines Handys. Wohin es geht, entscheidest du. Für die weitere Verarbeitung ist dann die App verantwortlich, die du wählst.
 - **Kalender-Datei (.ics):** Auf Wunsch erzeugt DayGate eine Kalender-Datei mit deinen Quests und gibt sie an das Teilen-Menü weiter.
 - **Übungsvideos:** Bei Übungen gibt es einen Link zur YouTube-Suche. Erst wenn du ihn antippst, öffnet sich YouTube (Google Ireland Limited) in deinem Browser oder der YouTube-App. Dann gelten die Datenschutzhinweise von Google.
 
-## 10. Bewertung im App Store / Google Play
+## 11. Bewertung im App Store / Google Play
 Nach dem ersten Tor kann DayGate den Bewertungsdialog von Apple oder Google anzeigen. Den Dialog stellt Apple bzw. Google bereit. Wir erfahren nicht, ob oder wie du bewertest, außer du veröffentlichst eine Bewertung im Store.
 
-## 11. Vom Store und vom Betriebssystem erhobene Daten
+## 12. Vom Store und vom Betriebssystem erhobene Daten
 Beim Herunterladen und Aktualisieren verarbeiten Apple (App Store, TestFlight) bzw. Google (Google Play) Daten in eigener Verantwortung, zum Beispiel Kontodaten und Kaufhistorie. In Testversionen über TestFlight kann Apple Absturzberichte und Nutzungsstatistiken an uns weitergeben, wenn du das in deinen Einstellungen erlaubt hast. Diese enthalten Geräte- und Systeminformationen, aber keine Inhalte aus DayGate. Für Google Play gilt das entsprechend, sobald DayGate dort verteilt wird.
 
-## 12. Kein Tracking, keine Werbung
+## 13. Kein Tracking, keine Werbung
 DayGate enthält keine Werbung, keine Werbe-IDs, keine Analyse- oder Tracking-Dienste und verkauft keine Daten.
 
-## 13. Konto, Sync und Rangliste
+## 14. Konto, Sync und Rangliste
 In dieser Version gibt es kein Konto und keinen Sync. Bevor Konto, Sync oder Rangliste starten, ergänzen wir diese Erklärung.
 
-## 14. Deine Rechte
+## 15. Deine Rechte
 Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch (Art. 21). Erteilte Einwilligungen kannst du jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3), in DayGate meist direkt über die Einstellungen deines Handys.
 
-Da wir die Daten aus Abschnitt 3 bis 6 nicht erhalten, können wir sie auch nicht herausgeben oder löschen. Sie liegen nur bei dir. Für alle Fragen erreichst du uns unter daygate@hmpartenkirchen.de.
+Da wir die Daten aus Abschnitt 3 bis 6 und 9 nicht erhalten, können wir sie auch nicht herausgeben oder löschen. Sie liegen nur bei dir. Für alle Fragen erreichst du uns unter daygate@hmpartenkirchen.de.
 
 Du hast außerdem das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren, zum Beispiel bei der für uns zuständigen Behörde: Bayerisches Landesamt für Datenschutzaufsicht (BayLDA), Promenade 18, 91522 Ansbach, https://www.lda.bayern.de
 
-## 15. Alter
+## 16. Alter
 DayGate richtet sich an Personen ab 16 Jahren.
 
-## 16. Änderungen
+## 17. Änderungen
 Wenn neue Funktionen dazukommen, die Daten anders verarbeiten, passen wir diese Erklärung vorher an. Die aktuelle Fassung findest du in der App unter Einstellungen › Datenschutz und auf dieser Seite.
